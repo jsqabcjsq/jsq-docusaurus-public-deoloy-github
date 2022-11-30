@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjsq_website=self.webpackChunkjsq_website||[]).push([[7930],{2870:e=>{e.exports=JSON.parse('{"permalink":"/jsq-docusaurus-public-deoloy-github/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
